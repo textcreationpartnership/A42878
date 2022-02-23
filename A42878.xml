@@ -1,0 +1,2118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The nativity of the most valiant and puissant monarch, Lewis the fourteenth, king of France and Navarre astronomically and astrologically handled.</title>
+            <author>Gadbury, John, 1627-1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42878</idno>
+            <idno type="STC">Wing G90</idno>
+            <idno type="STC">ESTC R30398</idno>
+            <idno type="EEBO-CITATION">11308373</idno>
+            <idno type="OCLC">ocm 11308373</idno>
+            <idno type="VID">47400</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47400)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1461:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The nativity of the most valiant and puissant monarch, Lewis the fourteenth, king of France and Navarre astronomically and astrologically handled.</title>
+                  <author>Gadbury, John, 1627-1704.</author>
+               </titleStmt>
+               <extent>35, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata following p. 35.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Louis --  XIV, --  King of France, 1638-1715.</term>
+               <term>Horoscopes.</term>
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47400:1"/>
+            <pb facs="tcp:47400:1" rendition="simple:additions"/>
+            <p>THE NATIVITY OF THE MOST Valiant and Puiſſant Monarch LEWIS The FOURTEENTH, KING Of <hi>FRANCE</hi> and <hi>NAVARRE,</hi> Aſtronomically and Aſtrologically Handled.</p>
+            <q>Let them be for ſigns and for ſeaſons, and for days and for years,
+<bibl>
+                  <hi>Gen. 1.14.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:47400:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:47400:2"/>
+            <head>
+               <hi>The Nativity of the moſt Valiant and Puiſſant Monarch,</hi> &amp;c.</head>
+            <p>THIS great Prince was born at Saint <hi>Germans, Anno</hi> 1638. <hi>September</hi> 4. <hi>S. N. Auguſt</hi> the 25. <hi>S. V.</hi> 23 hours 3 minutes <hi>P. M.</hi> or <hi>Auguſt</hi> the 26. at 3 minutes paſt Eleven <hi>mane,</hi> to which time the operation for the Figure is as followeth.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>Aſcen. Rect. ſolis</hi>
+                     </cell>
+                     <cell>164</cell>
+                     <cell>3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Aſcen. Rect. temporis</hi>
+                     </cell>
+                     <cell>345</cell>
+                     <cell>45</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>509</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Circulus ſub</hi>
+                     </cell>
+                     <cell>360</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Aſcen. Rect. M. C.</hi>
+                     </cell>
+                     <cell>149</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>add.</hi>
+                     </cell>
+                     <cell>90</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Aſcen. obli. Aſcen.</hi>
+                     </cell>
+                     <cell>239</cell>
+                     <cell>48</cell>
+                  </row>
+               </table>
+            </p>
+            <p>For the Tenth Houſe and Aſcendant I do this:
+<table>
+                  <row>
+                     <cell>
+                        <hi>Proxime major</hi> ♌</cell>
+                     <cell>25</cell>
+                     <cell>150</cell>
+                     <cell>11</cell>
+                     <cell>
+                        <hi>R. A.</hi>
+                     </cell>
+                     <cell>149</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Proxime minor</hi> ♌</cell>
+                     <cell>27</cell>
+                     <cell>149</cell>
+                     <cell>14</cell>
+                     <cell>
+                        <hi>Le A.</hi>
+                     </cell>
+                     <cell>149</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>57</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>34</cell>
+                  </row>
+               </table>
+            </p>
+            <p>If 57 gives 60, what ſhall 34 give, 35: therefore the Cuſp of the Tenth Houſe is ♌ 27 35.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>Proxime major</hi> ♏</cell>
+                     <cell>14</cell>
+                     <cell>240</cell>
+                     <cell>53</cell>
+                     <cell>
+                        <hi>O. A.</hi>
+                     </cell>
+                     <cell>239</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Proxime minor ♏</hi>
+                     </cell>
+                     <cell>13</cell>
+                     <cell>239</cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>L. A.</hi>
+                     </cell>
+                     <cell>239</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>23</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>18</cell>
+                  </row>
+               </table>
+            </p>
+            <p>If 83 gives 60, what ſhall 18 give, <hi>facit</hi> 13: then the Cuſp of the Horoſcope is ♏ 13 13.</p>
+         </div>
+         <div type="part">
+            <pb n="4" facs="tcp:47400:3"/>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <table>
+                  <head>LATITUD. PLANETARUM.</head>
+                  <row>
+                     <cell>♄</cell>
+                     <cell>0</cell>
+                     <cell>37</cell>
+                     <cell>N.</cell>
+                  </row>
+                  <row>
+                     <cell>♃</cell>
+                     <cell>0</cell>
+                     <cell>55</cell>
+                     <cell>N.</cell>
+                  </row>
+                  <row>
+                     <cell>♂</cell>
+                     <cell>3</cell>
+                     <cell>20</cell>
+                     <cell>So.</cell>
+                  </row>
+                  <row>
+                     <cell>♀</cell>
+                     <cell>0</cell>
+                     <cell>23</cell>
+                     <cell>So.</cell>
+                  </row>
+                  <row>
+                     <cell>☿</cell>
+                     <cell>0</cell>
+                     <cell>47</cell>
+                     <cell>N.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>33</cell>
+                     <cell>So.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="5" facs="tcp:47400:3"/>
+            <head>
+               <hi>The ſeveral Circles of Poſition of the Sun, Moon, and</hi> Pars Fortunae.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>LOngit. Solis eſt ♍</cell>
+                     <cell>12</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Declina. Merid. ſupra Terram</cell>
+                     <cell>6</cell>
+                     <cell>49</cell>
+                  </row>
+                  <row>
+                     <cell>Aſcentio Recta</cell>
+                     <cell>164</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Diſtan. a. M. C.</cell>
+                     <cell>14</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Circulus Poſitionis</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Differen. Aſcentionalis</cell>
+                     <cell>1</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Aſcentio obliqua</cell>
+                     <cell>162</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Longitudo Lunae in ♌</cell>
+                     <cell>5</cell>
+                     <cell>47</cell>
+                  </row>
+                  <row>
+                     <cell>Latitud. Merid.</cell>
+                     <cell>2</cell>
+                     <cell>33</cell>
+                  </row>
+                  <row>
+                     <cell>Declinat. ſepten. ſupra ter.</cell>
+                     <cell>16</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>Aſcentio Recta</cell>
+                     <cell>127</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Diſtan. a M. C.</cell>
+                     <cell>22</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Circulus Poſitionis</cell>
+                     <cell>19</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Differen. Aſcentionalis</cell>
+                     <cell>5</cell>
+                     <cell>49</cell>
+                  </row>
+                  <row>
+                     <cell>Diſcentio obliqua</cell>
+                     <cell>133</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>Longitudo pars Fortunae in ♎</cell>
+                     <cell>6</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Declinat. Merid. ſupra terram</cell>
+                     <cell>2</cell>
+                     <cell>31</cell>
+                  </row>
+                  <row>
+                     <cell>Aſcentio Recta</cell>
+                     <cell>185</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Diſtantia a M. C.</cell>
+                     <cell>35</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>Circulus Poſitionis</cell>
+                     <cell>38</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Differentia Aſcentionalis</cell>
+                     <cell>1</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>Aſcentio obliqua</cell>
+                     <cell>187</cell>
+                     <cell>44</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="6" facs="tcp:47400:4"/>
+            <head>This Nativity proved by Accidents to be this Princes true Nativity.</head>
+            <p>AGed nine years he had the ſmall Pox, <hi>viz.</hi> in <hi>Novemb.</hi> 1647. in that Revolution ♄ was in ♊ in the fourth, in ☍ to the <g ref="char:Moon">☽</g>, and the ☉ in the ſeventh in <g ref="char:quadrine">□</g> to them both, and ♂ Lord of his Radical Horoſcope in ♂ with ♀ in the eighth Houſe.</p>
+            <p>Aged 12 years, his Subjects rebelled, and he had a malignant Feaver; the ☉ (who is Aphaeta) was at that time directed to the body of ☿, and he in the Radix in <g ref="char:quadrine">□</g> to ♂.</p>
+            <p>Aged 14 years, he entered upon the poſſeſſion of his King<g ref="char:EOLhyphen"/>dom, he had then the M. C. to the body of the ☉, the Horo<g ref="char:EOLhyphen"/>ſcope to the ⚹ of ☿, the <g ref="char:Moon">☽</g> to the terms of ♃, and ♃ to the ⚹ of the ☉, and ♂ to the <g ref="char:trine">△</g> of the ☉.</p>
+            <p>Aged 16 years, he was Crowned at <hi>Rhemes,</hi> he had then the Sun directed to the eleventh Houſe, and the ♁ to the <hi>ſpica</hi> ♍.</p>
+            <p>Aged 19 years, he joined with the Engliſh, and took many Towns in <hi>Flanders,</hi> whereof <hi>Dunkirk</hi> was one; he had now the M. C. to the <hi>cauda</hi> ♌, the ☉ to the <g ref="char:trine">△</g> of ♄, the <g ref="char:Moon">☽</g> to the <hi>cor</hi> ♌, and <g ref="char:trine">△</g> of ♂, and the ♁ to the <hi>ſpica</hi> ♍ with latitude.</p>
+            <p>Aged 20 years, he advanced in his Conqueſts; he had now the <g ref="char:Moon">☽</g> to the <g ref="char:trine">△</g> of ♂ with latitude: and under theſe directi<g ref="char:EOLhyphen"/>ons in the year following he began his Treaty with the <hi>Spa<g ref="char:EOLhyphen"/>niard,</hi> in which they diſcourſed about the marriage with the <hi>Infanta</hi> of <hi>Spain</hi> to this Prince.</p>
+            <p>Aged near 22 years, he was married to the <hi>Infanta</hi> of <hi>Spain,</hi> he had then the Aſcendant to the Antiſcion of ♄, and the ☉ to the ⚹ of ♀ coming up.</p>
+            <p>Aged 23 years, the <hi>Dauphin</hi> was born; he had then the M. C. to the <hi>Cauda</hi> ♌, without latitude, and the ☉ to the ⚹ of the <g ref="char:Moon">☽</g>.</p>
+            <p>Aged 24 or 25, his Ambaſſadors quarrel with thoſe of <hi>Spain,</hi> about precedency, and ſhortly after <hi>Crequi</hi> quarrels with the Pope; he had now the M. C. to the body of ☿ in <g ref="char:quadrine">□</g> to ♂, the <g ref="char:Moon">☽</g> to the ⚹ of ♃, and the ♁ to the ⚹ of ♂.</p>
+            <pb n="7" facs="tcp:47400:4"/>
+            <p> Aged 27 years, his Mother died, and he made War with <hi>England,</hi> by which War I think he got nothing but blows; he had now his M. C. to the <g ref="char:quadrine">□</g> of ♂.</p>
+            <p>Aged 33 and 34 years, he advanced an Army againſt <hi>Flan<g ref="char:EOLhyphen"/>ders</hi> and <hi>Germany,</hi> and had wondrous ſucceſs, as every one knows; he had now the <g ref="char:Moon">☽</g> to the body of the ☉, the M. C. to the ⚹ of ♀ and the <g ref="char:Moon">☽</g>, and to the ♁, the Horoſcope to the ſecond Houſe, and a ſeries of good directions to ſucceed; as you may ſee in the Table.</p>
+            <p>About 35 years of age, the Emperour oppoſed him; the ♁ to the <g ref="char:quadrine">□</g> of ♀ was now in force.</p>
+            <p>Aged 36 years, his Army marched as far as <hi>Hidelburg, Tureen</hi> was ſlain, and himſelf had a Frenzy; he had now the Aſcendant to the <hi>cor</hi> ♏ C. L. the M. C. to the <hi>contra anti</hi> of ☿, the <g ref="char:Moon">☽</g> to the <hi>cauda</hi> ♌, and the ♁ to the <g ref="char:quadrine">□</g> of the <g ref="char:Moon">☽</g>, and ♂ to the ☍ of the <g ref="char:Moon">☽</g>.</p>
+            <p>Aged 37 years, he had Fits of the Falling-Sickneſs, that is in the 38th Current; he had no Direction, but in his Revolu<g ref="char:EOLhyphen"/>tion for that year ♂ was in ☍ to the <g ref="char:Moon">☽</g> from ♍ and ♓, and ♄ in direct ☍ to the degree of his Radical Horoſcope, and ♃ in <g ref="char:quadrine">□</g> to the ☉.</p>
+            <p>Aged 38, that is in 1677. and the beginning of 1678. he took <hi>Friburg</hi> and <hi>Gaunt,</hi> and made a great noiſe; he had then his ☉ directed to the <hi>ſpica</hi> ♍, with latitude.</p>
+            <p>Aged 40 years and about 40 days, he had the Aſcendant di<g ref="char:EOLhyphen"/>rected to the <g ref="char:quadrine">□</g> of the ☉ in ♐, that is about <hi>October</hi> 1678, ſince which time his Fortunes have been ſomething clouded, and the Duke of <hi>Brandenburg</hi> hath given his Forces one or two re<g ref="char:EOLhyphen"/>markable Defeats of late.</p>
+            <pb n="8" facs="tcp:47400:5"/>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">Years of age.</cell>
+                     <cell rows="2">Years of our Lord.</cell>
+                     <cell cols="5">
+                        <hi>A Speculum of Directions belonging to this Nativity.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Horo<g ref="char:EOLhyphen"/>ſcope to Pro<g ref="char:EOLhyphen"/>mittors.</cell>
+                     <cell>The mid<g ref="char:EOLhyphen"/>heaven to Promittors.</cell>
+                     <cell>☉ directed to Promit<g ref="char:EOLhyphen"/>tors.</cell>
+                     <cell>
+                        <g ref="char:Moon">☽</g> directed to her Pro<g ref="char:EOLhyphen"/>mittors.</cell>
+                     <cell>the ♁ di<g ref="char:EOLhyphen"/>rected to Promittors.</cell>
+                  </row>
+                  <row>
+                     <cell>0</cell>
+                     <cell>1638</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>1639</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♄ 11</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♀ 10</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>1640</cell>
+                     <cell>
+                        <hi>ad</hi> T ♀ 20</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ☿ 44</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>1641</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>1642</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ ☿ 56</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>1643</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ ♃ 56</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>1644</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad cau.</hi> ♌ 16 (<hi>ad</hi> T ♄ 31</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>1645</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♃ 1</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>1646</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>1647</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♀ 4</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♀ 10</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>1648</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>1649</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ☌ ☿ <hi>SL</hi> (42</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>1650</cell>
+                     <cell>
+                        <hi>ad</hi> T ☿ 9</cell>
+                     <cell> </cell>
+                     <cell>ad ☌ ☿ CL.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>ad T ♂ 40</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>1651</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ♂ 23</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>1652</cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ ☿ 55</cell>
+                     <cell>
+                        <hi>ad corp.</hi> ☉ 15</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♃ 20</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>1653</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♃ 28</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad ſp. ♍ SL</hi> (57</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>1654</cell>
+                     <cell>
+                        <hi>ad con. An.</hi> (<g ref="char:Moon">☽</g> 36</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad dom.</hi> 11. (46</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ☿ 53</cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>1655</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>1656</cell>
+                     <cell>
+                        <hi>ad con. An.</hi> (♀ 14</cell>
+                     <cell>
+                        <hi>ad cau.</hi> ♌ (<hi>CL</hi> 20</cell>
+                     <cell>
+                        <hi>ad</hi> T ♄ 48</cell>
+                     <cell>
+                        <hi>ad cor. ♌ CSL</hi> (13</cell>
+                     <cell>
+                        <hi>ad ſp. ♍ CL</hi> (13</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>1657</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:trine">△</g> ♂ <hi>SL</hi> 14</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♂—28</cell>
+                     <cell>
+                        <hi>ad dom.</hi> 11 (22</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad MC</hi> 31</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>1658</cell>
+                     <cell>
+                        <hi>ad</hi> T ♄ 21</cell>
+                     <cell>
+                        <hi>ad</hi> T ♄ 6</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:trine">△</g> ♂ <hi>CL</hi> (13</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>1659</cell>
+                     <cell>
+                        <hi>ad An.</hi> ♄ 42</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>1660</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ ♀ 27</cell>
+                     <cell>
+                        <hi>ad</hi> T ☿ 48</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>1661</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad caud. ♌ (SL</hi> 15</cell>
+                     <cell>
+                        <hi>ad</hi> ♁ 8</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ <g ref="char:Moon">☽</g> 41</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="9" facs="tcp:47400:5"/>
+            <p>
+               <table>
+                  <row>
+                     <cell cols="5">
+                        <hi>A Speculum of Directions belonging to this Nativity.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>♄ directed to Promittors.</cell>
+                     <cell>♃ directed to Promittors.</cell>
+                     <cell>♂ directed to Promittors.</cell>
+                     <cell>♀ directed to Promittors.</cell>
+                     <cell>☿ directed to Promittors.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:quadrine">□</g> ♃ 38</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> ☍ ♀ <hi>CSL</hi> 59</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♀ 33</cell>
+                     <cell>
+                        <hi>ad</hi> T ♀ 24</cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:quadrine">□</g> ♂ 4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> ☍ <g ref="char:Moon">☽</g> 
+                        <hi>CL</hi> 31</cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:quadrine">□</g> ♀ 55</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> ☍ <g ref="char:Moon">☽</g> 
+                        <hi>SL</hi> 7</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ ♃ 24</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> T ☿ 16</cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:quadrine">□</g> 
+                        <g ref="char:Moon">☽</g> 27</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♃ 42</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:trine">△</g> &amp; T ♄ (45</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♀ 45</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ☿ 24</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> T ♀ 39</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ ♀ 54</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ <g ref="char:Moon">☽</g> 45</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♀ 16</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ♁ 21</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ ☉ 26</cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:trine">△</g> ☉ 41</cell>
+                     <cell>
+                        <hi>ad</hi> T ♃ ☉</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad Horoſcop.</hi> 48</cell>
+                     <cell>
+                        <hi>ad</hi> T ♃ 58</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♀ 42</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> T ♃ 34</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:trine">△</g> ♂ 23</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad MC</hi> 37</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad cor</hi> ♌ 53</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♃ 53</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> ⚹ ♂ <hi>CL</hi> 12</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> T ♂ 46</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♂ 39</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> ⚹ ♂ <hi>SL</hi> 32</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="10" facs="tcp:47400:6"/>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">Years of age.</cell>
+                     <cell rows="2">Years of our Lord.</cell>
+                     <cell cols="5">
+                        <hi>A Speculum of Directions belonging to this Nativity.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The horo<g ref="char:EOLhyphen"/>ſcope to Pro<g ref="char:EOLhyphen"/>mittors.</cell>
+                     <cell>The mid<g ref="char:EOLhyphen"/>heaven to Promittors.</cell>
+                     <cell>☉ directed to Promit<g ref="char:EOLhyphen"/>tors.</cell>
+                     <cell>
+                        <g ref="char:Moon">☽</g> directed to her Pro<g ref="char:EOLhyphen"/>mittors.</cell>
+                     <cell>the ♁ di<g ref="char:EOLhyphen"/>rected to Promittors</cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>1662</cell>
+                     <cell>
+                        <hi>ad</hi> T ♃ 24</cell>
+                     <cell>
+                        <hi>ad</hi> ♂ ☿ <hi>S L</hi> 44</cell>
+                     <cell>
+                        <hi>ad</hi> T ♀ 57</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ ♂ <hi>S L</hi> 0</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ ♃ 24</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>1663</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ☌ ☿ <hi>C L</hi> 10</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ ♃ 13</cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ ♂ <hi>C L</hi> 0</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>1664</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:quadrine">□</g> ♂ 16</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>1665</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>1666</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:trine">△</g> ♀ 8</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>1667</cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:trine">△</g> 
+                        <g ref="char:Moon">☽</g> 
+                        <hi>CL</hi> 31</cell>
+                     <cell>
+                        <hi>ad</hi> 11 <hi>dom.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♀ 20</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>1668</cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:trine">△</g> 
+                        <g ref="char:Moon">☽</g> 
+                        <hi>SL</hi> 46</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♃ 5</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ☌ ♃ <hi>CL</hi> 38</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad cor</hi> ♏ <hi>SL</hi> 2</cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:trine">△</g> ♄ 7</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♂ 33</cell>
+                  </row>
+                  <row>
+                     <cell>31</cell>
+                     <cell>1669</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♄ 7</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:quadrine">□</g> ♄ 32</cell>
+                  </row>
+                  <row>
+                     <cell>32</cell>
+                     <cell>1670</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ☌ <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>Jupit; <hi>SL</hi> 43</cell>
+                  </row>
+                  <row>
+                     <cell>33</cell>
+                     <cell>1671</cell>
+                     <cell>
+                        <hi>ad dom.</hi> 2.(40</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad corp.</hi> ☉ 7</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>34</cell>
+                     <cell>1672</cell>
+                     <cell>
+                        <hi>ad</hi> T ♀ 48</cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ ♀ — 19</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♃ 9</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ♁ — 50</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ <g ref="char:Moon">☽</g> 
+                        <hi>CL</hi> 50</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>35</cell>
+                     <cell>1673</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ <g ref="char:Moon">☽</g> 
+                        <hi>SL</hi> 58</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:quadrine">□</g> ♀ 00</cell>
+                  </row>
+                  <row>
+                     <cell>36</cell>
+                     <cell>1674</cell>
+                     <cell>
+                        <hi>ad cor</hi> ♏ <hi>(CL</hi> 6 <hi>ad</hi> T ♀ 7</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad cau.</hi> ♌ <hi>SL</hi> (33</cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:quadrine">□</g> 
+                        <g ref="char:Moon">☽</g> 32</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad con. A</hi> ☿ (35</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>37</cell>
+                     <cell>1675</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad ſp.</hi> ♍ <hi>S L</hi> (34</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>38</cell>
+                     <cell>1676</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad ſp</hi> ♍ <hi>CL</hi> 50.</cell>
+                     <cell>
+                        <hi>ad</hi> T ♄ 5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ☿ 21</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>39</cell>
+                     <cell>1677</cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:quadrine">□</g> ☉ 32</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>1678</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>41</cell>
+                     <cell>1679</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♀ 14</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>42</cell>
+                     <cell>1680</cell>
+                     <cell>
+                        <hi>ad</hi> T ☿ 37</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad Arctu C (L</hi> 6</cell>
+                     <cell>
+                        <hi>ad</hi> ♂; ☿ <hi>SL</hi> 0</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♄ 47</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="11" facs="tcp:47400:6"/>
+            <p>
+               <table>
+                  <row>
+                     <cell cols="5">
+                        <hi>A Speculum of Directions belonging to this Nativity.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>♄ directed to Promittors.</cell>
+                     <cell>♃ directed to Promittors.</cell>
+                     <cell>♂ directed to Promittors.</cell>
+                     <cell>♀ directed to Promittors.</cell>
+                     <cell>☿ directed to Promittors.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> T ♀ 2</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:trine">△</g> ☿ 20</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ☿ 30</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:trine">△</g> ♃ 11</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♄ 4</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♀ 41</cell>
+                     <cell>
+                        <hi>ad</hi> T ☿ 47</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad ſpi.</hi> ♍ 36</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ ☿ 6</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad con. A</hi> 
+                        <g ref="char:Moon">☽</g> 28</cell>
+                     <cell>
+                        <hi>ad</hi> ☌ ♄ 19</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad dom.</hi> 12.1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> T ♃ 15</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>aa</hi> ☌ <g ref="char:Moon">☽</g> 
+                        <hi>C L</hi> 43</cell>
+                     <cell>
+                        <hi>ad corp.</hi> ☉ 31</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad con.A</hi> ♀ 12</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♃ 34</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ☍ ♀ 16</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ☿ 20</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> ☍ ☉ 8</cell>
+                     <cell>
+                        <hi>ad</hi> T ♃ 22</cell>
+                     <cell>
+                        <hi>ad</hi> ☍ <g ref="char:Moon">☽</g> 
+                        <hi>S L</hi> 16</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ ♂ <hi>S L</hi> 9</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> T ☿ 56</cell>
+                     <cell>
+                        <hi>ad Ant.</hi> ♃ 4;</cell>
+                     <cell>
+                        <hi>ad</hi> T ☿ 14</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ ♂ <hi>C L</hi> 30</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♃ 45</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♃ &amp; ⚹ (♃ 29</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♀ 51</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> T ♁ 34</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ☌ ☿ <hi>S L</hi> 43</cell>
+                     <cell>
+                        <hi>ad</hi> ☌ ♃ <hi>C L</hi> 43</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ☌ ☿ <hi>C L</hi> 54</cell>
+                     <cell>
+                        <hi>ad</hi> ☌ ♃ <hi>S L</hi> 54</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="12" facs="tcp:47400:7"/>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">Years of age.</cell>
+                     <cell rows="2">Years of our Lord.</cell>
+                     <cell cols="6">
+                        <hi>A Speculum of Directions belonging to this Nativity.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Horo<g ref="char:EOLhyphen"/>ſcope to Pro<g ref="char:EOLhyphen"/>Mittors.</cell>
+                     <cell>The mid<g ref="char:EOLhyphen"/>heaven to Promittors.</cell>
+                     <cell>☉ directed to Promit<g ref="char:EOLhyphen"/>tors.</cell>
+                     <cell>
+                        <g ref="char:Moon">☽</g> directed to her Pro<g ref="char:EOLhyphen"/>mittors.</cell>
+                     <cell>the ♁ di<g ref="char:EOLhyphen"/>rected to Promittors.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>43</cell>
+                     <cell>1681</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ☌ ☿ <hi>C L</hi> 2</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:quadrine">□</g> ♂ 21</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>44</cell>
+                     <cell>1682</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ 18</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>45</cell>
+                     <cell>1683</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad cau.</hi> ♌ <hi>(C L 33</hi>
+                     </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ ☉ 13</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>46</cell>
+                     <cell>1684</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad dom</hi> 11.38</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>47</cell>
+                     <cell>1685</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♃ 27</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ☿ 39</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:trine">△</g> ♃ 27</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>48</cell>
+                     <cell>1686</cell>
+                     <cell>
+                        <hi>ad</hi> T ♃ 44</cell>
+                     <cell>
+                        <hi>ad ſp.</hi> ♍ 43</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♀ 21</cell>
+                  </row>
+                  <row>
+                     <cell>49</cell>
+                     <cell>1687</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>ad <g ref="char:quadrine">□</g> ♃ 52</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>50</cell>
+                     <cell>1688</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad dom.</hi> 12. (32</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ ♀ 14</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>51</cell>
+                     <cell>1689</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ☌ ♃ <hi>S L</hi> 40</cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>S L</hi> 12</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>52</cell>
+                     <cell>1690</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ <g ref="char:Moon">☽</g> 
+                        <hi>C L</hi> 38</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>53</cell>
+                     <cell>1691</cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:quadrine">□</g> ☿ 32</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:quadrine">□</g> ♀ 37</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="13" facs="tcp:47400:7"/>
+            <p>
+               <table>
+                  <row>
+                     <cell cols="5">
+                        <hi>A Speculum of Directions for this Nativity.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>♄ directed to Promittors.</cell>
+                     <cell>♃ directed to Promittors.</cell>
+                     <cell>♂ directed to Promittors.</cell>
+                     <cell>♀ directed to Promittors.</cell>
+                     <cell>☿ directed to Promittors.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T &amp; <g ref="char:quadrine">□</g> ♂ 1</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> ☍ ☿ <hi>S L</hi> 52</cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:trine">△</g> ♀ 5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:quadrine">□</g> ♁ 11</cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:trine">△</g> 
+                        <g ref="char:Moon">☽</g> 
+                        <hi>C L</hi> 26</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:quadrine">□</g> ♀ 9</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> T ♄ 56</cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:trine">△</g> 
+                        <g ref="char:Moon">☽</g> 
+                        <hi>S L</hi> 42</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:quadrine">□</g> 
+                        <g ref="char:Moon">☽</g> 32</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♃ 41</cell>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:trine">△</g> &amp; T ♄ 7</cell>
+                     <cell>ad T ♃ 55</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> T &amp; ⚹ <hi>Pro<g ref="char:EOLhyphen"/>orium</hi> 12.</cell>
+                     <cell>
+                        <hi>ad</hi> T ♀ 52</cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ <hi>prop.</hi> 58</cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ 1 54</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ <g ref="char:Moon">☽</g> 
+                        <hi>C L</hi> 55</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♃ 10</cell>
+                     <cell>
+                        <hi>ad</hi> ⚹ <g ref="char:Moon">☽</g> 
+                        <hi>S L</hi> 52</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:trine">△</g> ♀ 46</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♀ 49</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:trine">△</g> 
+                        <g ref="char:Moon">☽</g> 59</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>ad</hi> 
+                        <g ref="char:trine">△</g> 
+                        <g ref="char:Moon">☽</g> 
+                        <hi>SL</hi> 58</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>ad</hi> T ♀ 21</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="12" facs="tcp:47400:7"/>
+            <head>A ſhort general Judgment upon this Nativity. The firſt Houſe.</head>
+            <p>AT the Birth of this great and victorious Prince, the ſecond Decanale of ♏ aſcends the Horoſcope, and ♂ Lord there<g ref="char:EOLhyphen"/>of in ♐ in <g ref="char:quadrine">□</g> to ☿ in ♍: and ♃, who is in Reception with ♂ Lord of the Horoſcope, is in <g ref="char:quadrine">□</g> to the <g ref="char:Moon">☽</g>, and ♀ in ♌ a Regal com<g ref="char:EOLhyphen"/>manding Sign; this gives him a great undertaking Spirit, deſi<g ref="char:EOLhyphen"/>rous to do great things, as well by Peace as War.</p>
+            <p>♏ aſcends which is cold, and inclining to Melancholly, the <hi>Sun</hi> is in ♍ an earthy melancholy Sign; and the <hi>Moon,</hi> who is
+<pb n="13" facs="tcp:47400:7"/>a general Significator of the actions of a mans life, is in <g ref="char:quadrine">□</g> to ♃ and ☍ to ♄; ♂ Lord of the Horoſcope is in ♐ a fiery chollerick Sign, in <g ref="char:quadrine">□</g> to ☿ in ♍ a melancholly Sign: Hence his tempera<g ref="char:EOLhyphen"/>ture is generally Chollerick-Melancholly, Choller being the Pa<g ref="char:EOLhyphen"/>rent of Paſſion and Patron of Courage, and Melancholly the Author of ſtudy, gravity, and diſcretion.</p>
+            <p>♏ aſcending and ♂ in ♐ gives him ſomething more than a middle ſtature, fat and fleſhy, which is the more increaſed by the <g ref="char:Moon">☽</g> aſpect to ♃, and he being alſo in ſo great a Reception with <hi>Mars,</hi> all his Significators ſtrong, and in active parts of Heaven, gives a ſtrong able body, not eaſily tired, eſpecially in the hardſhip of War.</p>
+         </div>
+         <div type="part">
+            <pb n="14" facs="tcp:47400:8"/>
+            <head>Of the Qualities of the Mind.</head>
+            <p>BY the <hi>Qualities</hi> of the <hi>Mind</hi> I mean the effluviums of the ſenſitive Appetite and rational Soul, from the firſt of which are produced thoſe two natural Principles of Luſt and Anger, Love and Hate, and all other ſenſible Effects of the ſenſitive Appetite, to which is joined the Rational Soul, the very <hi>ipſa hominis forma Informans,</hi> by which we are diſtinguiſh<g ref="char:EOLhyphen"/>ed from bruits, and is thought by ſome to have an intrinſick Plaſtick virtue to nouriſh the Embrio in the Womb.</p>
+            <p>From this rational Soul proceeds two Properties; firſt the Intellect, which is the eye of the ſoul, and hath the ſenſes for its Organs, according to the old Adage, <hi>nihil intellectu quod non prius fuit in ſenſu:</hi> but it differs from the ſenſes in this; the ſenſe is employed about materials and ſingulars, the other about im<g ref="char:EOLhyphen"/>materials and univerſals; all the ſpecies of things it reſerves to it ſelf, and that is called memory, whoſe twin-brother is judgment, which is either ſpeculative or practical: the firſt con<g ref="char:EOLhyphen"/>ſiders things as they are things, the other as they are good or evil. Secondly, the Will, which is neither meerly paſſive nor meerly active, but is agitated either by Object or Thought; and it hath alſo a kind of a blind power, for it deſires nothing un<g ref="char:EOLhyphen"/>leſs it be propoſed to it by the Intellect; hence that ſaying; <hi>Ignoti nulla cupido.</hi> The Operations and Eſſluviums of this ſenſi<g ref="char:EOLhyphen"/>tive and rational Soul, with its Faculties and Properties, is call<g ref="char:EOLhyphen"/>ed in Engliſh the Mind, and is a perfect Compriſal of the whole Man, or rather the <hi>theſaurus animae,</hi> collecting beams and rays from all parts of the ſenſe and ſoul, and doth either improve them by Vertue, or miſ-improve them by Vice, according to the Poſition of the Luminaries with the benefick or maleſick Stars in the Radix or Nativity, and is our next buſineſs to con<g ref="char:EOLhyphen"/>ſider.</p>
+            <p>
+               <hi>Mercury</hi> in ♍ in <g ref="char:quadrine">□</g> to ♂ gives him a ſharp piercing underſtand<g ref="char:EOLhyphen"/>ing, yet ſomething raſh ſometimes in his undertakings; it in<g ref="char:EOLhyphen"/>clines
+<pb n="15" facs="tcp:47400:8"/>him to all manner of practical ingenuity and politick de<g ref="char:EOLhyphen"/>ſigns, eſpecially in War: the <hi>Sun</hi> caſting a ⚹ to his Horoſcope, makes him perform all his Actions with Greatneſs and Princely Glory, ſutable to the Qualities of his Birth; the <g ref="char:Moon">☽</g> in Conjun<g ref="char:EOLhyphen"/>ction with ♀, and the ☉ within orbs of the ⚹ of ♃, affords him divers admirable Qualifications, and ſo lofty a ſpirit, that he ſcorns to trample upon a Conquered Enemy.</p>
+            <div type="section">
+               <head>Of the Giver of Life.</head>
+               <p>THE Sun muſt be admitted Giver of Life in this Nativity, as being in the only Aphetical place proper to him, the Birth being Diurnal, and <hi>Mercury</hi> by the ſame Rule muſt be the <hi>Alchocodon,</hi> or Giver of Years, which in this Nativity and Natives life will be about forty eight: though he will live lon<g ref="char:EOLhyphen"/>ger, as you may read hereafter.</p>
+            </div>
+            <div type="section">
+               <head>The ſecond Houſe.</head>
+               <p>
+                  <hi>J<g ref="char:V">Ʋ</g>piter</hi> Lord of the ſecond, in ſo forcible a Reception with <hi>Mars</hi> in the ſecond, is able of it ſelf to give the Native a moſt admirable Fortune; but beſides this, he hath the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in Conjunction with ♀, and both caſting their ⚹ to the part of Fortune, and the Sun in the tenth in ⚹ to ♃, all which are great Arguments of advancement in Riches; and as <hi>Mars</hi> the Lord of the Aſcendant is in the ſecond, ſo it ſhews the Native ſhall procure it by his own endeavour; yet as the Moon is in ☍ to ♄ and <g ref="char:quadrine">□</g> of ♃, and <hi>Saturn</hi> alſo in ſquare to ♃, and ☿ in <g ref="char:quadrine">□</g> to ♂ in the ſecond, ſo he will have at ſome times occaſion to be ſenſible of the want of Money, though his Birth hath provided him ſecurity from the long continuance of ſuch a want.</p>
+            </div>
+            <div type="section">
+               <head>Of the third Houſe.</head>
+               <p>
+                  <hi>SAturn</hi> in the third Houſe, and Lord of the ſame alſo, ſhews the Native hath not many Brethren and Siſters, however
+<pb n="16" facs="tcp:47400:9"/>
+                  <hi>Saturn</hi> may ſhew a Brother or two, he being ſtrong there in ♒ a Maſculine Sign, and he a Maſculine Planet; but for Siſters I can<g ref="char:EOLhyphen"/>not judge any.</p>
+            </div>
+            <div type="section">
+               <head>Of the Fourth Houſe.</head>
+               <p>
+                  <hi>SAturn,</hi> Lord of the Fourth Houſe, muſt be the ſignification of the Natives Fathers, who being in <g ref="char:quadrine">□</g> to ♃ and ☍ to the <g ref="char:Moon">☽</g> and ♀, ſhews the troubles that he under-went both publick and private, in Body and Mind, ſo long before he dyed, which was in <hi>April,</hi> 1643. <hi>Saturn</hi> in <g ref="char:quadrine">□</g> to ♃ from fixed ſigns, may very well denote long Chronical Diſeaſes, and the ☍ of ♀ Lady of the Eighth from the Fourth, ſhews the expiration thereby; the truth is, he dyed after he had lingred five years under thoſe miſ<g ref="char:EOLhyphen"/>fortunes, according to this diſtance of <hi>Saturn</hi> from the ☍ to the Moon and <hi>Venus.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>Of the Fifth Houſe.</head>
+               <p>THis Houſe takes notice of the Native; Children in Mar<g ref="char:EOLhyphen"/>riage; and they are perſonated by <hi>Aries</hi> upon the Fifth, and <hi>Mars</hi> Lord thereof in ♐ in Reception with <hi>Jupiter</hi> in ♏, a fruitful ſign, which ſhews the poſſibility of his having Children; yet becauſe <hi>Venus,</hi> the Lady of the Eleventh, the Fifth from the Seventh, and the Moon are in <hi>Leo,</hi> a barren Sign, and both in ſquare to <hi>Jupiter,</hi> and oppoſition to <hi>Saturn,</hi> ſo it ſhews him to have but few, and of thoſe ſome ſhall dye alſo, becauſe <hi>Mars,</hi> Lord of the fifth, is in <g ref="char:quadrine">□</g> to ☿ Lord of the fourth from the fifth, and <hi>Venus,</hi> Lady of the fifth from the ſeventh, is in ☍ to <hi>Saturn.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>The Judgment belonging to the Sixth houſe.</head>
+               <p>
+                  <hi>MArs</hi> Lord of the ſixth Houſe, in ♐ a fiery ſign in ſquare to <hi>Mercury,</hi> who is ſtrong in ♍, ſeems to threaten him with hot Chollerick Diſtempers, which tend to a Phrenſie, a Delirium, or depravation of ſenſe: but theſe Diſeaſes will be of
+<pb n="17" facs="tcp:47400:9"/>no long continuance, becauſe <hi>Mars</hi> and <hi>Mercury</hi> are both in com<g ref="char:EOLhyphen"/>mon Signs, and in good Houſes of Heaven: But what Diſeaſes come from the Moon and <hi>Saturn</hi> will be durable and hard to be cured, and ſuch are the Stone, Gravel in the Kidneys, crude Humours, and perhaps the Gout; and theſe will happen under bad Directions, and bad Revolutions, <hi>&amp;c.</hi> But <hi>Mars</hi> Lord of the Aſcendant ſtrong, and the Aſcendant it ſelf free from all ma<g ref="char:EOLhyphen"/>lignant Rays, will give him a ſtrong vigorous body, by which means he will baffle Diſeaſes by ſtrength, exerciſe and courage, until age and ill Directions impair Nature, which will happen before he expires, and not long neither, according to <hi>Bonal.</hi> 755. <hi>at ſi planeta qui habet ſignificare Infirmitates fuerit occidenta<g ref="char:EOLhyphen"/>lis, erunt in ultima medietate vitae ejus,</hi> that if the Planet which ſignifies Diſeaſes were Occidental, they ſhall happen in the laſt part of his life.</p>
+            </div>
+            <div type="section">
+               <head>The Judgment belonging to the Seventh Houſe.</head>
+               <p>WHen I conſidered <hi>Venus</hi> Lady of the ſeventh in Con<g ref="char:EOLhyphen"/>junction with the Moon in <hi>Leo,</hi> a barren Sign, in ☍ to ♄ who always forbids Marriage, and ☿ in ♍ a barren Sign in <g ref="char:quadrine">□</g> to ♂ Lord of the Aſcendant, I did wonder that this Native ſhould marry ſo ſoon, and with ſo little diffi<g ref="char:EOLhyphen"/>culty as he did: yet when I obſerved <hi>Jupiter</hi> in a fruitful Sign, in reception with <hi>Mars</hi> Lord of the Horoſcope, and in Aſpect with the Moon and ♀ although a ſquare, it was a rational ar<g ref="char:EOLhyphen"/>gument for the ſoon performance of this matter; and the Moon alſo who hath Dignities in the ſeventh is in Conjunction with <hi>Venus</hi> Lady of the ſame, and a general ſignificator of Marri<g ref="char:EOLhyphen"/>age alſo; hence this is ſufficient to prove that he ſhould marry once, and that early too: according to the falling of thoſe mar<g ref="char:EOLhyphen"/>rying Directions, the truth is, this Native did marry <hi>Maria Tireſia d' Auſtria,</hi> the <hi>Infanta</hi> of <hi>Spain,</hi> in the year 1660.</p>
+               <p>The Natives Enemies are ſignified by <hi>Venus</hi> in Conjunction with the Moon near the <hi>praeſepe &amp; Aſelli,</hi> in Oppoſition of <hi>Saturn</hi> and <g ref="char:quadrine">□</g> to <hi>Jupiter,</hi> and therefore for his publick Enemies a<g ref="char:EOLhyphen"/>broad,
+<pb n="18" facs="tcp:47400:10"/>the Oppoſition of ♄ infatuates them, and poſſeſſeth them with many and ſtrange fears, ſo that they are but like a Lamb in a Lyons skin, having the Name, but not the real Na<g ref="char:EOLhyphen"/>ture of Enemies.</p>
+            </div>
+            <div type="section">
+               <head>Of the Judgment of the Eighth Houſe.</head>
+               <p>I Shall omit to Elect the Lord of death Cabaliſtically, and endeavour to ſatisfie my Reader with this, that when the Moon comes to the Body of ☿ and ſquare of <hi>Mars,</hi> that is a<g ref="char:EOLhyphen"/>bout 1681, or 1682, <hi>ut videas,</hi> he will be in danger of Poyſon and Treachery; but becauſe his Alchocoden doth not ſo ſoon expire, I am of the opinion he will live gloriouſly till the Sun, who is <hi>Hilea</hi> or Giver of life, comes by direction to the ſquare of <hi>Saturn</hi> in <hi>Libra,</hi> at which time he will have many troubles; and that will be when he is fifty years compleat, and two hun<g ref="char:EOLhyphen"/>dred and ſeventeen days, when it begins to work; and at that time he hath ♄ upon his Radical Horoſcope, and <hi>Mars</hi> upon the Radical place of the Moon, which will be about <hi>March</hi> and <hi>April</hi> in the year 1689, and alſo threaten ſome danger to his life.</p>
+               <p>That his death will be attended with violence, ſeems to ap<g ref="char:EOLhyphen"/>pear from <hi>Mars</hi> in a violent Sign in ſquare to <hi>Mercury,</hi> Lord of the eighth, and to the Sun alſo applying; and the Moon accor<g ref="char:EOLhyphen"/>ding to her Longitude is with violent Stars in Oppoſition to <hi>Sa<g ref="char:EOLhyphen"/>turn;</hi> and laſtly, the Moon and <hi>Jupiter</hi> in <g ref="char:quadrine">□</g> ſquare from violent parts of Heaven, and therefore God preſerve this great Prince from poyſon, falls, or wounds.</p>
+            </div>
+            <div type="section">
+               <head>Of the Ninth Houſe.</head>
+               <p>IT will be needleſs to take notice of the Religion of this Il<g ref="char:EOLhyphen"/>luſtrious Prince, but leave that as an exerciſe to the in<g ref="char:EOLhyphen"/>ternal actions of Faith.</p>
+            </div>
+            <div type="section">
+               <pb n="19" facs="tcp:47400:10"/>
+               <head>The Judgment proper to the Tenth Houſe.</head>
+               <p>
+                  <hi>MArs</hi> Lord of the Aſcendant in a Regal Sign, in Reception with <hi>Jupiter,</hi> gives him a Spirit inſpired with a deſire of Greatneſs and Glory, to which we may add the <g ref="char:Moon">☽</g> in Conjun<g ref="char:EOLhyphen"/>ction with <hi>Venus</hi> in a Regal fiery Sign; and ☿ Lord of the tenth partly, in ſquare with <hi>Mars,</hi> will make him ſtudious about the advancement of his Honour, and ſtirs up and excites his Intel<g ref="char:EOLhyphen"/>lectuals to contrive and project the ſame.</p>
+               <p>But above all is the Sun in the tenth, which gives wonderful and durable Honour, <hi>Sol in dome decima faelix: magnam poteſta<g ref="char:EOLhyphen"/>tem etiam in juventute ſignificat, Origa. de Effec. fol.</hi> 699 that the Sun well placed in the tenth Houſe gives great power, eſpecial<g ref="char:EOLhyphen"/>ly in the younger years; to which we may add the Sextile of <hi>Ju<g ref="char:EOLhyphen"/>piter</hi> to the Sun, and to the Cuſp of the MC almoſt, with the <hi>Cor Leonis</hi> a Regal fixed Star Culminant, all which are great ar<g ref="char:EOLhyphen"/>guments of honour and ſplendour, and that this honour will not be momentany and decaying, but durable, even to his lifes end.</p>
+            </div>
+            <div type="section">
+               <head>The Judgment belonging to the Eleventh Houſe.</head>
+               <p>
+                  <hi>SPica</hi> ♍ in the Eleventh and the ♁ alſo, gives him rich and powerful Friends. <hi>Venus</hi> Lady of the Eleventh in <hi>Leo</hi> with the Moon ſhews them to be honourable active perſons, having as great Spirits as himſelf; yet <hi>Venus</hi> in Oppoſition of <hi>Saturn,</hi> and ſquare to ♃ makes them unable to ſerve him according to their deſires, and that there ſhall diſtaſtes happen, although not deſigned: and as <hi>Mars</hi> Lord of the Aſcendant is in ſquare to <hi>Mercury</hi> upon the Cuſp of the eleventh, ſo the Native will be ſuſpicious enough of ſuch Friends.</p>
+            </div>
+            <div type="section">
+               <pb n="20" facs="tcp:47400:11"/>
+               <head>Judgment belonging to the Twelfth Houſe.</head>
+               <p>THE twelfth Houſe gives Judgment of private Enemies, and Captivity, both which the Native is exempted from by the force of Starry Influence; for <hi>Venus</hi> Lady of the twelfth Houſe is afflicted by the Oppoſition of <hi>Saturn</hi> and <hi>Jupiter,</hi> and <hi>Jupiter</hi> in the twelfth is afflicted by them both, ſo that the Na<g ref="char:EOLhyphen"/>tives private Enemies ſhall be afraid to truſt each other in Con<g ref="char:EOLhyphen"/>federacy, and there is no injury ſo dangerous as a confederated deſign is: — yet here the Reader muſt underſtand, that this Judgment is meant only in his life, for at his death he is likely to ſuffer by treachery, and the cruel deſigns of unjuſt men: and yet I mention this not evaſively, with a reſervation, that when<g ref="char:EOLhyphen"/>ſoever he dies it is fulfilled, but that it will take place only at the time mentioned, that is, at the Age of 42, or 49, or both.</p>
+               <p>Thus we may ſee the ineffable wiſdom of a Deity, in diſpo<g ref="char:EOLhyphen"/>ſing all into a regular courſe of Nature, all things agreeing in order to the main deſign for which they were appointed; and alſo the great Treaſury of nature how it combines and contrives the Tranſactions of our lives, as to Time, Quality, and Effects, therefore it is not Antichriſtianiſm nor Atheiſm, to own and believe a regular Fate, [for it is indeed <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>divinitus decre<g ref="char:EOLhyphen"/>tum,</hi> ſo called from <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>divido, quia ſuum cuique diviſum eſt,</hi>] all things acting and working having reſpect to their central cauſe; to which purpoſe one learnedly ſaith, <hi>Centrum unum om<g ref="char:EOLhyphen"/>nium deus eſt.</hi> And immediately after he tells us, that there are four Circles continually rowling about it, <hi>i. e.</hi> the Mind, the Soul, nature and matter. Hence you ſee the Intellectuals give their attendance to that great Being, in order to the per<g ref="char:EOLhyphen"/>formance of their duty in nature; and by how much the more glorious the mind of man is, than his body, ſo is the mind of Angels more glorious than they, and is indeed the perfect Rays of a Deity; and <hi>Marſilius Ficinus,</hi> after a long diſcourſe in his Commentary upon <hi>Plato de Convivio,</hi> ſpeaking of the quali<g ref="char:EOLhyphen"/>fication
+<pb n="21" facs="tcp:47400:11"/>of the mind, and how the paſſions of ſome are commu<g ref="char:EOLhyphen"/>nicated to ſome, he makes uſe of no other cauſe but ſtarry In<g ref="char:EOLhyphen"/>fluence, when he ſays, <hi>ita ut ſi naſcente aliquo Mars in Vene<g ref="char:EOLhyphen"/>ris domo, Libra vel tauro fuerit; propter Martis praeſentiam qui tunc Natus eſt, acerrimis uritur amoribus, orat. quinta. cap.</hi> 8. In the Nativity of any one, if <hi>Mars</hi> ſhould be in either of the Houſes of <hi>Venus, i. e. Libra</hi> or <hi>Taurus,</hi> becauſe of <hi>Mars</hi> his preſence, he that is then born will be ſubject to the torments of Love, which in ſome Nativities I have taken notice of, eſpeci<g ref="char:EOLhyphen"/>ally when the <g ref="char:Moon">☽</g> is in good Aſpect of <hi>Venus:</hi> and indeed it would not be hard to prove, or yet to believe <hi>Saturn, Mars</hi> and <hi>Venus</hi> to be the only Authors of all the Witchcraft in the World; yet not according to the Popular Opinion by faſcination, but by a Magnetical Sympathy and Antipathy in the Actives and Paſ<g ref="char:EOLhyphen"/>ſives of nature: So they are alſo the cauſe of depraved minds and vicious Actions, and that with a witneſs, if ☿ the picture of the Soul is not in good aſpect with the Moon and <hi>Saturn,</hi> by which means Reaſon gains the Conqueſt of Luſt and Paſſion — but of this enough—</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="22" facs="tcp:47400:12"/>
+            <head>A ſhort Collection of Aphoriſms which take place in this Nativity.</head>
+            <p n="1">1 THE Lord of the Aſcendant, ſtronger than the Lord of the ſeventh, the perſon then born always overcomes his Enemies, <hi>Collec. Genitu. Apho.</hi> 25.</p>
+            <p n="2">2. <hi>Spiea</hi> ♍, with <hi>Pars Fortunae,</hi> gives Riches. <hi>Pto. Par. fol.</hi> 105.</p>
+            <p n="3">3. The <hi>Sun</hi> in <g ref="char:quadrine">□</g> or ☍ to <hi>Mars,</hi> either haſtens the Death of the Father, or gives him many Troubles and Croſſes. <hi>P. P. fol.</hi> 62.</p>
+            <p n="4">4. The Moon joined to ♄ or ♂ by Body or ill Aſpect always incommodes the Mother. <hi>P. P. fol.</hi> 3.</p>
+            <p n="5">5. Eminent fixed Stars upon the Angles of a Nativity chiefly the <hi>M. C.</hi> and <hi>Horoſcope</hi> ſhews eminent and prodigious perſons: <hi>Col. Genitu. Apho.</hi> 30.</p>
+            <p n="6">6. <hi>Mars</hi> and the <hi>Sun</hi> in the ſecond in their dignities, gives the Native Riches, and ways to ſpend it, <hi>Collec. Genitu. Apho.</hi> 50.</p>
+            <p n="7">7. Three or four Planets in their dignities give great riches. <hi>P. P. fol.</hi> 105.</p>
+            <p n="8">8. The <hi>Sun</hi> with <hi>Jupiter</hi> in the <hi>M. C.</hi> (he is here in ⚹ with <hi>Jupiter</hi>) gives honour. <hi>Pto. Par. fol.</hi> 110.</p>
+            <p n="9">9. The Lord of the Mid-heaven in his dignities applying to the Lord of the Aſcendant Oriental, promiſeth great honour in a Kingdom. <hi>P. P. fol.</hi> 112.</p>
+         </div>
+         <div type="part">
+            <pb n="23" facs="tcp:47400:12"/>
+            <head>Some few remarkable Revolutions belong<g ref="char:EOLhyphen"/>ing to this Nativity.</head>
+            <p>AND firſt, of the Revolution for the Suns return, <hi>Anno</hi> 1671. to his radical place, under the Influence of which he performed thoſe great Undertakings againſt <hi>Flanders</hi> and <hi>Germany.</hi>
+            </p>
+            <figure/>
+            <p>This Revolution is as prodigious as the Effects, which were the then actions at that time of this Great Prince, for here the Figure is almoſt the ſame with that of the Radix, and all the Planets above the Earth (except <hi>Saturn</hi>) and he is as ſtrong as any of them, being angular and in Reception with ♀: here
+<pb n="24" facs="tcp:47400:13"/>is the Sun gloriouſly placed in the Tenth Houſe with <hi>Mercury</hi> in his Dignities, and the <hi>Moon</hi> and <hi>Venus</hi> in the Eleventh in <hi>Libra,</hi> and <hi>Mars</hi> Lord of the Aſcendant in Conjunction with <hi>Jupiter</hi> near the Cuſp of the Tenth Houſe; and it is ſuch a Poſition as is not commonly ſeen: I ſhall forbear to enlarge upon the Effects of this Figure, becauſe the actions are ſo long paſt: and therefore let thoſe that underſtand it draw a Judgment for their own uſe, I will proceed to the Figure of the Revolution, <hi>pro Anno</hi> 1678.</p>
+            <figure/>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> The Moon in <hi>Taurus,</hi> her Exaltation in trine to the Sun in the Aſcendant, and <hi>Mars</hi> who hath Dignities in the Fifth, in Sextile to the Sun there, and in Trine to <hi>Jupiter</hi> Lord of the Seventh, ſhew great inclination to a pacification, and a gene<g ref="char:EOLhyphen"/>ral
+<pb n="25" facs="tcp:47400:13"/>peace; yet ☿ Lord of the Horoſcope in ☍ to <hi>Jupiter,</hi> ſhews ſome impediment and hindrance in thoſe Affairs, but in the end it will be perfectly effected: and ſo I come to the Revolution for the year 1680.</p>
+            <figure/>
+            <p>This is the Revolution to operate with the Moon to the body of <hi>Mercury</hi> without Latitude, but the Figure being no ways violent, I ſhall forbear all further mention hereof; and pro<g ref="char:EOLhyphen"/>ceed to the Revolution for 1681.</p>
+            <pb n="26" facs="tcp:47400:14"/>
+            <figure/>
+            <p>This is like to be an unhappy Revolution, to work with ſo ill a Direction; for here is ♂ Lord of his Radical Horoſcope in ſquare to <hi>Saturn,</hi> and ☿ Lord of this Horoſcope is com<g ref="char:EOLhyphen"/>buſt, and both in <g ref="char:quadrine">□</g> to the Moon, and beſides <hi>Saturn</hi> is up<g ref="char:EOLhyphen"/>on the Radical place of the Moon, and <hi>Mars</hi> upon his Radi<g ref="char:EOLhyphen"/>cal Horoſcope in ſquare to him, hence it is like to prove an ill Revolution, but yet not mortal, although he will be in danger this year: And ſo I come to conſider his Revolution for the Fiftieth year of his age, beginning 1688. from <hi>Ar<g ref="char:EOLhyphen"/>gol</hi>'s <hi>Ephem.</hi>
+            </p>
+            <pb n="27" facs="tcp:47400:14"/>
+            <figure/>
+            <p>☉ ad <g ref="char:quadrine">□</g> ♄</p>
+            <p>
+               <g ref="char:Moon">☽</g> ad ⚹ ♀</p>
+            <p>MC ad dom. 12.</p>
+            <p>Theſe are the Directions that will influence the Fate of this Revolution, which I am of opinion will not prove fatal, and that for theſe Reaſons: Firſt <hi>Saturn</hi> is Lord of no malignant Houſe: and ſecondly, his ſquare falls within the Rays of <hi>Jupi<g ref="char:EOLhyphen"/>ter,</hi> and he ſtrong: Thirdly, the <g ref="char:Moon">☽</g> is within the good Beams of <hi>Venus,</hi> that is her ⚹ juſt coming up: Hence I am induced to believe, that <hi>Saturn</hi> hath not force and ill-will enough to kill at this time. But in the Revolutional Figure I confeſs that ♂, Lord of the Radical Horoſcope, and partly of this, is combuſt in the
+<pb n="28" facs="tcp:47400:15"/>Eighth Houſe; and the <hi>Sun,</hi> who is <hi>Fons Vitae,</hi> is alſo afflicted of <hi>Mars</hi> in the ſame Houſe; but the <g ref="char:Moon">☽</g> is in Conjunction with ♃, and haſtening to a <g ref="char:trine">△</g> of <hi>Venus</hi> and the <hi>Sun;</hi> yet as the <hi>Moon</hi> is in Conjunction with ♃ in the Twelfth Houſe, and they both weak in a Melancholly Sign, and the <hi>Sun, Mars,</hi> and <hi>Venus</hi> are afflicted in the Eighth in ♍ an earthy Sign, ſo he ſhall be ſubject to Melancholly Diſtempers, paſſions, and diſcontents; yet as ♄ the Lord of the Horoſcope is in exaltation, he will indubi<g ref="char:EOLhyphen"/>tably ſurvive all; for although the <g ref="char:quadrine">□</g> of <hi>Saturn</hi> is a malignant direction, yet according to that Aphoriſm of <hi>Hermes,</hi> his ma<g ref="char:EOLhyphen"/>lignity is meliorated by the good Beams of <hi>Jupiter,</hi> which is able to ſave, although he were Lord of the Eighth Houſe: ♃ <hi>ſol<g ref="char:EOLhyphen"/>vit Saturnum, &amp;</hi> ♀ <hi>ſolvit Martem, Herm. Apho.</hi> 27. And <hi>Argol</hi> ſpeaking of the Moon in a Revolution, ſaith, <hi>Venus &amp; Jupiter juncti cum Luna corporis ſanitatem demonſtrant, Pto. Par. fol.</hi> 194. <hi>Jupiter</hi> and <hi>Venus</hi> joined to the Moon ſhew health and ſound<g ref="char:EOLhyphen"/>neſs of body. And that thoſe Planets afflicted in the Eighth Houſe doth rather ſhew ſome vexation and trouble to happen to the Native about his Conqueſt in <hi>Flanders,</hi> or his Children, or his Wifes Dowry, or perhaps all; and not to touch his life, as ſome I am ſure would judge from ſuch a Poſition and Dire<g ref="char:EOLhyphen"/>ction: and this is the rather confirmed to me, becauſe ☿ is ſtrong in the Seventh, he the only Planet angular and in Re<g ref="char:EOLhyphen"/>ception with the Sun.</p>
+            <p>But perhaps ſome may ſay he hath a bad profectional Figure for this year, he now having ♐ in his Horoſcope (and there<g ref="char:EOLhyphen"/>fore the Radical place of ♂) and the Radical place of ☿ cul<g ref="char:EOLhyphen"/>minant, in his <hi>Medium Coeli,</hi> which I own to be an unhappy Po<g ref="char:EOLhyphen"/>ſition, and to carry a ſufficient tendency of ill, were there other ſequel Cauſes for the ſame; but Profections are rather Demon<g ref="char:EOLhyphen"/>ſtrations of the Effects of Directions, than particular Cauſes of any ſuch things themſelves; but I leave thoſe things to thoſe who are more curious.</p>
+            <p>I do think this Native may in a courſe of Nature live till the Sun, who is Giver of life, comes to the <g ref="char:quadrine">□</g> of <hi>Venus,</hi> who is Lady of the ſeventh Houſe in the Radix and to the ſquare
+<pb n="29" facs="tcp:47400:15"/>of the Moon, who hath Dignities in that Houſe alſo, and at the ſame time the Aſcendant comes to the ſquare of <hi>Mercu<g ref="char:EOLhyphen"/>ry,</hi> Lord of his Eighth Houſe, and to the body of <hi>Mars</hi> al<g ref="char:EOLhyphen"/>ſo, without latitude, as may be ſeen by the Table of Di<g ref="char:EOLhyphen"/>rections preceeding; and this will happen about the fifty fourth or fifty fifth year of his age. And thus much for this Nativity.</p>
+            <trailer>Nihil ſine fine.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="appendix">
+            <pb facs="tcp:47400:16"/>
+            <pb n="31" facs="tcp:47400:16"/>
+            <head>AN APPENDIX.</head>
+            <p>BY way of Appendix I will here add the Nativity of that Illuſtrious Prince <hi>Lewis</hi> the <hi>Daulphin</hi> of <hi>France,</hi> eldeſt Son to <hi>Lewis</hi> the Fourteenth, the preſent King of <hi>France.</hi>
+            </p>
+            <p>This Valiant young Prince was born at <hi>Fountainblean, No<g ref="char:EOLhyphen"/>vember</hi> the firſt, <hi>S. N.</hi> but <hi>October</hi> the twenty ſecond, <hi>S. V.</hi> Min. 9. P. M. 1661. to which time the right Aſcention of the Sun is,
+<table>
+                  <row>
+                     <cell>Rect. Aſcen. ☉</cell>
+                     <cell>217</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Tempor.</cell>
+                     <cell>2</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Rect. Aſcen. MC.</cell>
+                     <cell>219</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>ad</cell>
+                     <cell>90</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Aſcen. Obli. Aſcen.</cell>
+                     <cell>309</cell>
+                     <cell>19</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The Figure without further Operation is as followeth, to the Latitude of 49 Degrees, the Planets places not being re<g ref="char:EOLhyphen"/>duced, but taken from <hi>Vincent Wing</hi> without Reduction.</p>
+            <pb n="32" facs="tcp:47400:17"/>
+            <figure/>
+            <p>
+               <table>
+                  <head>LATITUDO PLANETARUM.</head>
+                  <row>
+                     <cell>♄</cell>
+                     <cell>1</cell>
+                     <cell>52</cell>
+                     <cell>N.</cell>
+                  </row>
+                  <row>
+                     <cell>♃</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>N.</cell>
+                  </row>
+                  <row>
+                     <cell>♂</cell>
+                     <cell>1</cell>
+                     <cell>25</cell>
+                     <cell>N.</cell>
+                  </row>
+                  <row>
+                     <cell>♀</cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                     <cell>So.</cell>
+                  </row>
+                  <row>
+                     <cell>☿</cell>
+                     <cell>0</cell>
+                     <cell>32</cell>
+                     <cell>So.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>7</cell>
+                     <cell>N.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="33" facs="tcp:47400:17"/>
+            <p> This young Prince having had ſo few Accidents, that we have not many to prove the Nativity by; and therefore the main ac<g ref="char:EOLhyphen"/>cident that I do principally truſt to, is the Horoſcope to the ſquare of <hi>Jupiter</hi> in <hi>Capricorn,</hi> a place which <hi>Jupiter</hi> perfectly hates: and about the ſame time the Sun to the body of <hi>Saturn</hi> in <hi>Scorpio,</hi> which Directions may very well ſuit to the-Accident of 1678, which was a Quartan Ague, at which time the Worſhip<g ref="char:EOLhyphen"/>ful Sir <hi>Robert Talbot,</hi> Knight, and Doctor of Phyſick, was ſent for by his Majeſty of <hi>France</hi> to cure him, which he accordingly did immediately after his arrival there: how theſe Directions ſuit to the time, you may obſerve by the following Operations.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Aſcen. Obli. Aſcend.</cell>
+                     <cell>309</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>Aſcen. Obli. <g ref="char:quadrine">□</g> ♃</cell>
+                     <cell>325</cell>
+                     <cell>45</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Directio quaeſita.</hi>
+                     </cell>
+                     <cell>16</cell>
+                     <cell>26</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell>Deſcen. Obli. ☉</cell>
+                     <cell>216</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Deſcen. Obli. ♂ ♄ <hi>CL.</hi>
+                     </cell>
+                     <cell>232</cell>
+                     <cell>54</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Arcus directi.</hi>
+                     </cell>
+                     <cell>16</cell>
+                     <cell>53</cell>
+                  </row>
+               </table>
+            </p>
+            <p>There have been more Directions in force, but becauſe I can<g ref="char:EOLhyphen"/>not be ſo happy as to hear of the Accident attending them, I ſhall forbear their Operations, and give the Reader an account when they happened, that others when they know them may apply them to their proper Cauſes and Effects; aged about ſe<g ref="char:EOLhyphen"/>ven years, he had the Sun directed to the body of <hi>Mercury,</hi> which Direction could not chuſe but be dangerous to his life.</p>
+            <p>Aged about 12 or 13, he had his Horoſcope to the ☍ of <hi>Mars cum Lat.</hi> this could give no durable diſeaſe, becauſe it was with<g ref="char:EOLhyphen"/>in the Rays of the ⚹ of <hi>Saturn,</hi> and ♄ and ♂ were in <g ref="char:trine">△</g> at his birth, yet it would give ſome ſlight Feaver, <hi>&amp;c.</hi>
+            </p>
+            <p>But when he ſhall be aged 21 years, his Sun comes by Directi<g ref="char:EOLhyphen"/>on to the ſquare of the Moon in <hi>Sagitary;</hi> this will be a dan<g ref="char:EOLhyphen"/>gerous Direction, and will give either the ſmall Pox, or a Fea<g ref="char:EOLhyphen"/>ver, or both.</p>
+            <p>Aged near 25, his Horoſcope comes to the <g ref="char:quadrine">□</g> of the Sun in ♒, a place the Sun hates, this is uſually a troubleſome dange<g ref="char:EOLhyphen"/>rous direction, and doth as well concern the honour as the life of the Native, and his Father.</p>
+            <pb n="34" facs="tcp:47400:18"/>
+            <p> But ſeeing Directions work according to the Quality of the perſons paſſive in their Effects, and becauſe I am not ſure that this Horoſcope is certainly true (although I dare be confident it is not far off from the true one) I will omit all other parti<g ref="char:EOLhyphen"/>culars of this nature, and come to ſpeak to things more ge<g ref="char:EOLhyphen"/>neral.</p>
+            <p>In this Nativity the Sun is Giver of Life, and <hi>Mars</hi> Giver of Years, from whence we may judge that this Native may live to a conſiderable age: and as <hi>Mars</hi> caſteth his Trine to <hi>Saturn,</hi> Lord of the Aſcendant, and the Sun caſteth his ⚹ to the Degree aſcending, he may be generally very healthful; to which we may add the <g ref="char:trine">△</g> of the Sun and Moon, <hi>Saturn,</hi> Lord of his ſe<g ref="char:EOLhyphen"/>cond, in <g ref="char:trine">△</g> to <hi>Mars</hi> in the ſeventh, and the Sun, Lord of the eighth, in Trine to the Moon in the ſecond, and ☿ who hath Dignities in the eighth, is likewiſe in the tenth Houſe, ſhew him to advance his Fortune by Marriage, and that he may pro<g ref="char:EOLhyphen"/>bably marry thrice, if not four times, becauſe the Moon, Lady of the ſeventh, is in ♓, the Dignities of <hi>Venus</hi> a fruitful Sign, and ♂ in the ſeventh in ♋, a fruitful Sign, and the Sun and <hi>Saturn</hi> Lord of the Aſcendant in ♏ in the tenth Houſe, the prime angle of the Figure, and a fruitful Sign alſo. It is generally reported, that this Native is of a very moroſe nature, which is well ſigni<g ref="char:EOLhyphen"/>fied by ♂, who hath Dignities in the Horoſcope in <g ref="char:quadrine">□</g> to ♃, the Author of Clemency and good Nature, and the Moon in <g ref="char:quadrine">□</g> to <hi>Saturn,</hi> Lord of the Aſcendant, may very aptly ſignifie the ſame, eſpecially if we conſider the fixed Stars that the Sun is with, and ☿ the general ſignificator of the mind is with the like fixed Stars, and combuſt of the Sun, and in Aſpect neither to ♃ nor ♀.</p>
+            <p>That his death will be natural, is viſible by the Moons <g ref="char:trine">△</g> to the Sun and ♃, and ♂ his <g ref="char:trine">△</g> to ♄ Lord of the Aſcendant, and that he will dye of a Dropſical or a Hypochondriacal Diſtemper, becauſe ☿ Lord of the ſixth and eighth is in <hi>Scorpio</hi> combuſt, and <hi>Saturn</hi> Lord of the Aſcendant, and the Moon in watery Signs.</p>
+            <p>The Sun in the tenth ſhews he will be famous and honourable at ſometimes, and that in his own Country too, for his Con<g ref="char:EOLhyphen"/>queſts
+<pb n="35" facs="tcp:47400:18"/>will not be eminent abroad, although he will have an aſpiring undertaking ſpirit, and aiming at great things.</p>
+            <p>But <hi>Saturn</hi> in the tenth (although Lord of the Horoſcope) in <g ref="char:quadrine">□</g> to the Moon in the ſecond, will in the latter part of his life give him ſome unhappy Accident and Cataſtrophe to his Ho<g ref="char:EOLhyphen"/>nour; and this is confirmed by ♂ Lord of the tenth in the ſe<g ref="char:EOLhyphen"/>venth, in <g ref="char:quadrine">□</g> to ♃ in the ninth: why may not the Clergy oppoſe his honour and greatneſs, or ſome Religious War begin again in <hi>France,</hi> for <hi>Venus</hi> Lady of the ninth is in Reception with ♃, and he his real Enemy.</p>
+            <lg>
+               <l>—Nam dum pejora timentur,</l>
+               <l>Eſt locus in voto—</l>
+            </lg>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>WHereas in Page the 20th, line the 14th, there is mention made of 42 or 49, this is to advertiſe thoſe Readers who do not underſtand Aſtrology, that it is expreſt there after the method of writing in the <hi>Speculum</hi> of Directi<g ref="char:EOLhyphen"/>ons, which is in compleat years, ſo that the Effects of the Moon to the Body of <hi>Mercury</hi> and ſquare of <hi>Mars,</hi> will continue in force from the beginning of 1681 to the beginning of 1683. and the other Direction, that is of the Sun to <hi>Saturn,</hi> is mentioned 49, the Reaſon is, becauſe it is the compleat number of Degrees between the Significator and the Promittor, but being turned into time, ſhews it will not appear in Effect before he is fifty years and a half old—but let him get well over the two former Directions, I fear he'll find them dangerous enough. God preſerve him from poyſon, and the treachery of a near Kinſman of his own Name, in 1682.—This I thought good to ac<g ref="char:EOLhyphen"/>quaint the Reader with, to prevent miſtakes and clamours a<g ref="char:EOLhyphen"/>gainſt the Author.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:47400:19"/>
+            <head>Correct theſe Errours following.</head>
+            <p>PAge 3. line 14. for <hi>this</hi> read <hi>thus,</hi> l. 15. for ♌ 25. r. ♌ 28. p. 12. for <hi>decanale</hi> r. <hi>decanate,</hi> p. 16. l. 5. for <hi>ſignification</hi> r. <hi>Significator,</hi> p. 17. for <hi>Bonal.</hi> r. <hi>Bonat.</hi> p. 18. l. 12. for <hi>Hilea</hi> r. <hi>Hi<g ref="char:EOLhyphen"/>leg.</hi> l. 24. <hi>dele</hi> , p. 20. l. 5. r. <hi>Oppoſition of</hi> Saturn <hi>and Square of</hi> Ju<g ref="char:EOLhyphen"/>piter, l. ult. r. <hi>Plato</hi>'s, p. 21. l. 1. &amp; 2. for <hi>communicated to ſome</hi> r. <hi>advanced by others,</hi> l. 5. r. <hi>uratur,</hi> p. 28. l. 30. dele <hi>ſequel.</hi>
+            </p>
+            <pb facs="tcp:47400:19"/>
+         </div>
+      </back>
+   </text>
+</TEI>
